@@ -3,4 +3,7 @@ git add: add files to be tracked to working directory
 
 The staging area is where the commits are made
 Working directory is the directory in which the repository is made
-making a change
+
+git diff: compares working directory to staging area
+git diff --staged: compared staging area to most recent commit
+git diff commit1 commit2: compares two commits
