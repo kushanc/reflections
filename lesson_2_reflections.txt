@@ -1,0 +1,6 @@
+git init: initialize git in a folder
+git add: add files to be tracked to working directory
+
+The staging area is where the commits are made
+Working directory is the directory in which the repository is made
+making a change
