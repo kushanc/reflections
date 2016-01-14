@@ -1,0 +1,25 @@
+Why is it easier to compare when using Git and FC?
+well the seeing the two versions made it easy to compare line by line.
+
+How could having easy access to the entire history of a file make
+you a more efficient programmer in the long term?
+
+See where you went wrong, see how the code improved
+Look for common ways to improve, patterns intrinsic to a person
+
+What are the pros and cons of choosing when to commit, like you do in Git,
+vs having versions automatically saved, like Google Docs does?
+You can quantify the changes
+YOu are aware of the different versions, easier to sift through
+
+Git has to allow multiple files since it is an interrelated bundle of services.
+Google docs is more towards traditional filing systems.
+
+Git log can be used to look at the changes that were made to the file periodically
+Git diff can be used to know the exact changes that were made on each line
+
+By having version control we always know that the older version of the files will remain
+
+Initialize git:
+  git init
+  git status
