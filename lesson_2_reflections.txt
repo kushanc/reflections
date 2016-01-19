@@ -7,3 +7,13 @@ Working directory is the directory in which the repository is made
 git diff: compares working directory to staging area
 git diff --staged: compared staging area to most recent commit
 git diff commit1 commit2: compares two commits
+
+git checkout -b new_branch_name: does two things
+      git branch new_branch_name
+      git checkout new_branch name
+
+diagrams make it visual and easy to follow
+
+git show:in case merged, will compare commit to its parent
+
+By knowing when to do the merge, more autonomy 
