@@ -1,3 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 When using different computers to work, when more poeple collaborate
+
+ git remote add origin (link) : used to add remote depository
+ git remote -v : shows the fetch and push sites
+ git push origin master: push the master branch to origins remote deposit
+ git pull origin master: pull master branch from origin 
